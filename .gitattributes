@@ -1,0 +1,3 @@
+*.test binary
+testarch/ export-ignore
+TestA.a export-subst
