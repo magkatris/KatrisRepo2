@@ -1,6 +1,0 @@
-Test 2
-New second file
-
-AAA no commit
-It's commit!
-Credentials
