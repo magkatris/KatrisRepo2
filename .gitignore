@@ -1,4 +1,4 @@
 .gitignore
-.git-credentials
+.my-credentials
 build/
 *.a
